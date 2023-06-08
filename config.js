@@ -53,15 +53,15 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '841790803' //Nomor Bot
+global.nomorown = '872205396' //Nomor Owner
+global.namebot = 'Kiyotaka Bot' //Nama Bot
+global.nameown = 'Kiyotaka 99' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
-global.openAiapi = 'PASTE_YOUR_API_HERE'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
-global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
+global.openAiapi = 'https://platform.openai.com/account/org-settings'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
+global.org = 'org-MNruqauhoqLqyNia5pHAk1fN'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 
 /*============== STAFF ==============*/
 global.owner = [
